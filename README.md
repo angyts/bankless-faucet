@@ -32,6 +32,11 @@ Slight problem: need gas to do contract interactions like withdraw
 
 Need to look into opengsn.org to relay transactions.
 
+## Notes on opengsn.org
+
+https://docs.opengsn.org/javascript-client/tutorial.html#converting-a-contract-to-support-gsn
+
+
 
 
 
