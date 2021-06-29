@@ -1,0 +1,5 @@
+/bankless-faucet/
+/node_modules/
+/build/
+/.idea/
+.env
