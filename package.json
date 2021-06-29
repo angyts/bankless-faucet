@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@opengsn/provider": "^2.2.2",
     "@openzeppelin/contracts": "^4.1.0",
     "dotenv": "^10.0.0",
     "truffle-hdwallet-provider": "^1.0.6"

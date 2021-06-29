@@ -36,7 +36,8 @@ Need to look into opengsn.org to relay transactions.
 
 https://docs.opengsn.org/javascript-client/tutorial.html#converting-a-contract-to-support-gsn
 
+Tried to compile and migrate to ropsten. Seems to compile fine, need to run more tests. 
 
-
-
+Contract address `0x16942b756D82eF9dCd2b6C7506dD6d401104c99F`
+Seems to work just as normal, but will need to add some configurations for the paymaster. So i'm going to destroy it first.
 
